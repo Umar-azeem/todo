@@ -1,7 +1,7 @@
 function Add({
   add,
   deleteArray,
-  setUpdateEdit,
+  setUpdateEdit, 
   updateEdit,
   updateArray,
   editIndex,
