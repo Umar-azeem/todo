@@ -1,5 +1,5 @@
 function Add({
-  add,
+   add,
   deleteArray,
   setUpdateEdit, 
   updateEdit,
