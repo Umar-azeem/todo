@@ -4,7 +4,7 @@ function Add({
   setUpdateEdit,  
   updateEdit,
   updateArray,
-  editIndex,
+  editIndex, 
   setEditIndex,
 }) {
   return (
