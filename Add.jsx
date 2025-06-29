@@ -5,7 +5,7 @@
   updateEdit,
   updateArray,
   editIndex, 
-  setEditIndex,
+  setEditIndex, 
 }) {
   return (
     <>
