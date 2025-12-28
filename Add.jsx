@@ -4,7 +4,7 @@ function Add({
   setUpdateEdit,  
   updateEdit,
   updateArray,
-  editIndex, 
+  editIndex,  
   setEditIndex, 
 }) {
   return (
@@ -52,3 +52,4 @@ function Add({
   );
 }
 export default Add;
+
