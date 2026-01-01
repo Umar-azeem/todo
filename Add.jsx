@@ -1,4 +1,4 @@
-function Add({
+ function Add({
    add,
   deleteArray,
   setUpdateEdit,  
@@ -52,6 +52,7 @@ function Add({
   );
 }
 export default Add;
+
 
 
 
