@@ -9,7 +9,7 @@
 }) {
   return (
     <>
-      {" "}
+      
       {add.map((item, index) => (
         <div class="flex mb-4 items-center border border-black p-2 rounded-lg">
           {editIndex === index ? (
@@ -52,6 +52,7 @@
   );
 }
 export default Add;
+
 
 
 
