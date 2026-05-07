@@ -1,4 +1,4 @@
- function Add({
+function Add({
    add,
   deleteArray,
   setUpdateEdit,  
